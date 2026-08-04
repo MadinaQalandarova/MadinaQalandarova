@@ -74,4 +74,4 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 
 📧 Email: qalandarovam20@gmail.com
 
-💼 Telegram: @qalandaovaaa_m
+💼 Telegram: @qalandarovaaa_m
