@@ -70,14 +70,6 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadinaQalandarova&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadinaQalandarova&layout=compact&theme=tokyonight)
-
----
-
 ## 🌍 Let's Connect
 
 📧 Email: qalandarovam20@gmail.com
