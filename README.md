@@ -30,13 +30,8 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 ### ⚙️ Backend
 - Python
 - Django
-- Django REST Framework
 - REST API
-
-### 🗄 Database
-- PostgreSQL
-- SQLite
-
+- 
 ### 🎨 Design
 - Figma
 - Responsive Design
