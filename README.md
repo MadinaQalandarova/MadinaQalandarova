@@ -31,7 +31,7 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 - Python
 - Django
 - REST API
-- 
+  
 ### 🎨 Design
 - Figma
 - Responsive Design
@@ -52,7 +52,7 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 - Docker
 - Artificial Intelligence
 - Software Architecture
-
+  
 ---
 
 ## 🎯 My Goals
