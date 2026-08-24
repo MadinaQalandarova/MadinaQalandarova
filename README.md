@@ -16,8 +16,6 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 - 📚 Always learning new technologies
 - 🚀 Building projects to improve my skills every day
 
--
-
 ## 🚀 Tech Stack
 
 ### 🌐 Frontend
