@@ -8,7 +8,7 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 
 --
 
-## 🌷 About Me
+## 💫 About Me
 
 - 💻 Full Stack Web Developer
 - 🎨 Interested in UI/UX & Web Design
