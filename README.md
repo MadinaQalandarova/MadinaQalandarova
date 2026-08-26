@@ -55,7 +55,7 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 
 ## 🎯 My Goals
 
-- 🌟 Become a Professional Full Stack Developer
+- 🌟 Become a Professional Full Stack Developer... 
 - 🤖 Build AI-powered Applications
 - 🎨 Design Beautiful User Interfaces
 - 🌍 Contribute to Open Source Projects
