@@ -1,4 +1,4 @@
-# 👋🏻 Hi, I'm Madina Qalandarova
+# 👋🏻 Hi, I'm Qalandarova Madina 
 
 ### 💻 Full Stack Web Developer | 🎨 UI Designer | 🚀 Python Developer
 
