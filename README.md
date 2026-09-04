@@ -53,7 +53,7 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
   
 ---
 
-## 🎯 My Goals
+## 🎯 My Future Goals
 
 - 🌟 Become a Professional Full Stack Developer... 
 - 🤖 Build AI-powered Applications
