@@ -35,14 +35,14 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 - UI/UX Design
 
 ### 🛠 Tools
-- Git
-- GitHub
-- VS Code
-- Docker (Learning)
-- Kali Linux
 
----
-
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER%20(LEARNING)-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/KALI%20LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p> 
 ## 📚 Currently Learning
 
 - Advanced Django
