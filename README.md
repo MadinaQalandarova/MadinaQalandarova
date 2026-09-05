@@ -43,6 +43,7 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
   <img src="https://img.shields.io/badge/DOCKER%20(LEARNING)-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/KALI%20LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p> 
+
 ## 📚 Currently Learning
 
 - Advanced Django
