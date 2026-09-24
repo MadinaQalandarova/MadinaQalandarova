@@ -6,7 +6,6 @@ I'm passionate about creating modern, responsive, and user-friendly web applicat
 
 I enjoy turning ideas into real projects by combining beautiful designs with clean and efficient code👩🏻‍💻 
 
-
 ## 💫 About Me
 
 - 💻 Full Stack Web Developer
@@ -47,7 +46,6 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 ## 📚 Currently Learning
 
 - Advanced Django
-- Docker
 - Artificial Intelligence
 - Software Architecture
   
