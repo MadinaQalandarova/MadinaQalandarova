@@ -2,9 +2,9 @@
 
 ### 💻 Full Stack Web Developer | 🎨 UI Designer | 🚀 Python Developer
 
-I'm passionate about creating modern, responsive, and user-friendly web applications.
+I'm passionate about creating modern, responsive and user-friendly web applications.
 
-I enjoy turning ideas into real projects by combining beautiful designs with clean and efficient code👩🏻‍💻 
+I enjoy turning ideas into real projects by combining beautiful designs with clean and efficient code.👩🏻‍💻 
 
 ## 💫 About Me
 
