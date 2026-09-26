@@ -64,9 +64,9 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 
 ## 🌍 Let's Connect
 
-🌷  My Digital Card: https://madinaqalandarova.github.io/CARD/
-
 🌝  My Portfoilo: https://www.qalandarova.uz/ 
+
+🌷  My Digital Card: https://madinaqalandarova.github.io/CARD/
 
 📧 My Email: 
 qalandarovam20@gmail.com
