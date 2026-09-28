@@ -1,6 +1,6 @@
 # 👋🏻 Hi, I'm Qalandarova Madina 
 
-### 💻 Full Stack Web Developer | 🎨 UI Designer | 🚀 Python Developer
+### 💻 Full Stack Web Developer | 🎨 UI Designer | 🚀 Python
 
 I'm passionate about creating modern, responsive and user-friendly web applications.
 
