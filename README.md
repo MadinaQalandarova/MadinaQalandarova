@@ -62,7 +62,7 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 
 ---
 
-## 🌍 Let's Connect
+## 🌍 Let's Connect to me
 
 🌝  My Portfoilo: https://www.qalandarova.uz/ 
 
