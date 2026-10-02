@@ -6,7 +6,7 @@ I'm passionate about creating modern, responsive and user-friendly web applicati
 
 I enjoy turning ideas into real projects by combining beautiful designs with clean and efficient code.👩🏻‍💻 
 
-## 💫 About Me.. 
+## 💫 About Me
 
 - 💻 Full Stack Web Developer
 - 🎨 Interested in UI/UX & Web Design
