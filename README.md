@@ -71,3 +71,6 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 📧 My Email: 
 qalandarovam20@gmail.com
 
+Real Project:
+https://uzbekistan-y1yg.vercel.app
+
