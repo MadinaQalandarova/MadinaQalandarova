@@ -21,10 +21,10 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 - CSS3
 - SCSS
 - JavaScript
-- TypeScript
 
 ### ⚙️ Backend
 - Python
+- C
 - Django
 - REST API
   
