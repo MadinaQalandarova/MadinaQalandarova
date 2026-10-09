@@ -49,18 +49,6 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 - Docker
 - Artificial Intelligence
 - Software Architecture
-  
----
-
-## 🎯 My Future Goals
-
-- 🌟 Become a Professional Full Stack Developer
-- 🤖 Build AI-powered Applications
-- 🎨 Design Beautiful User Interfaces
-- 🌍 Contribute to Open Source Projects
-- 🚀 Create Real-World Web Applications
-
----
 
 ## 🌍 Let's Connect to me
 
