@@ -16,9 +16,36 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 
 ## 🚀 Tech Stack
 
-| 🌐 Frontend | ⚙️ Backend | 🎨 Design |
-| :--- | :--- | :--- |
-| - HTML5<br>- CSS3<br>- SCSS<br>- JavaScript | - Python<br>- C<br>- Django<br>- REST API | - Figma<br>- Responsive Design<br>- UI/UX Design |
+<table border="0" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌐 <ins>Frontend</ins></h3>
+      <p>
+        <code>&bull; HTML5</code><br>
+        <code>&bull; CSS3</code><br>
+        <code>&bull; SCSS</code><br>
+        <code>&bull; JavaScript</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ <ins>Backend</ins></h3>
+      <p>
+        <code>&bull; Python</code><br>
+        <code>&bull; C</code><br>
+        <code>&bull; Django</code><br>
+        <code>&bull; REST API</code>
+      </p>
+    </td>
+    <td width="34%" valign="top">
+      <h3>🎨 <ins>Design</ins></h3>
+      <p>
+        <code>&bull; Figma</code><br>
+        <code>&bull; Responsive Design</code><br>
+        <code>&bull; UI/UX Design</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🛠 Tools
 
