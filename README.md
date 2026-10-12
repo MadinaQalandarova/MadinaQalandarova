@@ -16,24 +16,11 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 
 ## 🚀 Tech Stack
 
-### 🌐 Frontend
-- HTML5
-- CSS3
-- SCSS
-- JavaScript
+| 🌐 Frontend | ⚙️ Backend | 🎨 Design |
+| :--- | :--- | :--- |
+| - HTML5<br>- CSS3<br>- SCSS<br>- JavaScript | - Python<br>- C<br>- Django<br>- REST API | - Figma<br>- Responsive Design<br>- UI/UX Design |
 
-### ⚙️ Backend
-- Python
-- C
-- Django
-- REST API
-  
-### 🎨 Design
-- Figma
-- Responsive Design
-- UI/UX Design
-
-### 🛠 Tools
+## 🛠 Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -61,4 +48,3 @@ qalandarovam20@gmail.com
 
 Real Project:
 https://uzbekistan-y1yg.vercel.app
-
