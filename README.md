@@ -16,35 +16,33 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 
 ## 🚀 Tech Stack
 
-<div align="left">
-  <span width="30%" display="inline-block">
-    <h4>🌐 Frontend</h4>
+<div style="display: flex; justify-content: space-between; max-width: 600px;">
+  <div>
+    <h3>🌐 Frontend</h3>
     <ul>
       <li>HTML5</li>
       <li>CSS3</li>
       <li>SCSS</li>
       <li>JavaScript</li>
     </ul>
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span width="30%" display="inline-block">
-    <h4>⚙️ Backend</h4>
+  </div>
+  <div>
+    <h3>⚙️ Backend</h3>
     <ul>
       <li>Python</li>
       <li>C</li>
       <li>Django</li>
       <li>REST API</li>
     </ul>
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span width="30%" display="inline-block">
-    <h4>🎨 Design</h4>
+  </div>
+  <div>
+    <h3>🎨 Design</h3>
     <ul>
       <li>Figma</li>
       <li>Responsive Design</li>
       <li>UI/UX Design</li>
     </ul>
-  </span>
+  </div>
 </div>
 
 ## 🛠 Tools
