@@ -16,34 +16,36 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 
 ## 🚀 Tech Stack
 
-<div style="display: flex; justify-content: space-between; max-width: 600px;">
-  <div>
-    <h3>🌐 Frontend</h3>
-    <ul>
-      <li>HTML5</li>
-      <li>CSS3</li>
-      <li>SCSS</li>
-      <li>JavaScript</li>
-    </ul>
-  </div>
-  <div>
-    <h3>⚙️ Backend</h3>
-    <ul>
-      <li>Python</li>
-      <li>C</li>
-      <li>Django</li>
-      <li>REST API</li>
-    </ul>
-  </div>
-  <div>
-    <h3>🎨 Design</h3>
-    <ul>
-      <li>Figma</li>
-      <li>Responsive Design</li>
-      <li>UI/UX Design</li>
-    </ul>
-  </div>
-</div>
+<table border="0" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="33%" valign="top" style="border: none;">
+      <h3>🌐 Frontend</h3>
+      <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>SCSS</li>
+        <li>JavaScript</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top" style="border: none;">
+      <h3>⚙️ Backend</h3>
+      <ul>
+        <li>Python</li>
+        <li>C</li>
+        <li>Django</li>
+        <li>REST API</li>
+      </ul>
+    </td>
+    <td width="34%" valign="top" style="border: none;">
+      <h3>🎨 Design</h3>
+      <ul>
+        <li>Figma</li>
+        <li>Responsive Design</li>
+        <li>UI/UX Design</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🛠 Tools
 
