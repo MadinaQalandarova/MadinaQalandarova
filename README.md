@@ -16,9 +16,9 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 
 ## 🚀 Tech Stack
 
-<table border="0" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: none;">
+<table width="100%" style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="33%" valign="top" style="border: none;">
+    <td width="31%" valign="top" style="border: none;">
       <h3>🌐 Frontend</h3>
       <ul>
         <li>HTML5</li>
@@ -27,7 +27,8 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
         <li>JavaScript</li>
       </ul>
     </td>
-    <td width="33%" valign="top" style="border: none;">
+    <td width="3.5%" style="border: none;"></td>
+    <td width="31%" valign="top" style="border: none;">
       <h3>⚙️ Backend</h3>
       <ul>
         <li>Python</li>
@@ -36,7 +37,8 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
         <li>REST API</li>
       </ul>
     </td>
-    <td width="34%" valign="top" style="border: none;">
+    <td width="3.5%" style="border: none;"></td>
+    <td width="31%" valign="top" style="border: none;">
       <h3>🎨 Design</h3>
       <ul>
         <li>Figma</li>
