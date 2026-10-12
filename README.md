@@ -16,7 +16,7 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 
 ## 🚀 Tech Stack
 
-<table width="100%" style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; width=100%">
   <tr>
     <td width="31%" valign="top" style="border: none;">
       <h3>🌐 Frontend</h3>
