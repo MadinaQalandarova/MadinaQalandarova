@@ -16,36 +16,36 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 
 ## 🚀 Tech Stack
 
-<table border="0" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🌐 <ins>Frontend</ins></h3>
-      <p>
-        <code>&bull; HTML5</code><br>
-        <code>&bull; CSS3</code><br>
-        <code>&bull; SCSS</code><br>
-        <code>&bull; JavaScript</code>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ <ins>Backend</ins></h3>
-      <p>
-        <code>&bull; Python</code><br>
-        <code>&bull; C</code><br>
-        <code>&bull; Django</code><br>
-        <code>&bull; REST API</code>
-      </p>
-    </td>
-    <td width="34%" valign="top">
-      <h3>🎨 <ins>Design</ins></h3>
-      <p>
-        <code>&bull; Figma</code><br>
-        <code>&bull; Responsive Design</code><br>
-        <code>&bull; UI/UX Design</code>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <span width="30%" display="inline-block">
+    <h4>🌐 Frontend</h4>
+    <ul>
+      <li>HTML5</li>
+      <li>CSS3</li>
+      <li>SCSS</li>
+      <li>JavaScript</li>
+    </ul>
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span width="30%" display="inline-block">
+    <h4>⚙️ Backend</h4>
+    <ul>
+      <li>Python</li>
+      <li>C</li>
+      <li>Django</li>
+      <li>REST API</li>
+    </ul>
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span width="30%" display="inline-block">
+    <h4>🎨 Design</h4>
+    <ul>
+      <li>Figma</li>
+      <li>Responsive Design</li>
+      <li>UI/UX Design</li>
+    </ul>
+  </span>
+</div>
 
 ## 🛠 Tools
 
