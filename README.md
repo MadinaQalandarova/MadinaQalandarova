@@ -72,6 +72,8 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 
 🌷  My Digital Card: https://madinaqalandarova.github.io/CARD/
 
+🐋 LinkedIn: https://www.linkedin.com/in/madina-qalandarova-488776432/?isSelfProfile=true
+
 📧 My Email: 
 qalandarovam20@gmail.com
 
