@@ -62,6 +62,8 @@ I enjoy turning ideas into real projects by combining beautiful designs with cle
 ## 📚 Currently Learning
 
 - Advanced Django
+- SQL
+- Data science
 - Docker
 - Artificial Intelligence
 - Software Architecture
